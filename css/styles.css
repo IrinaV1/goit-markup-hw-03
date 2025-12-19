@@ -124,13 +124,12 @@ img {
 /*PROMO*/
 .promo {
   background-color: #2e2f42;
-
+  padding: 188px 0;
 }
 
 .promo-wrapper {
   margin: 0 auto;
   max-width: 496px;
-  padding: 188px 0;
 }
 
 .promo-title {
